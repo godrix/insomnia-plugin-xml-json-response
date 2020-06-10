@@ -1,0 +1,23 @@
+{
+  "name": "insomnia-plugin-xml-json-response",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "insomnia": {                    
+    "name": "base64",    
+    "displayName": "Base64 Plugin",
+    "images": {
+      "icon": "icon.svg",
+      "cover": "cover.svg"
+    },
+    "publisher": {
+      "name": "YOUR NAME HERE", 
+      "icon": "https://..." 
+    },
+    "applications": { 
+      "designer": "*",
+      "core": "*",
+      "cli": "*"
+     }
+  }
+}
