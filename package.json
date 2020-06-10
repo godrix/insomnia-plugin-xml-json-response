@@ -1,18 +1,34 @@
 {
   "name": "insomnia-plugin-xml-json-response",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "main.js",
+  "description": "transforms XML responses into Json by removing XML tags",
+  "author": "Carlos Gabriel Godri",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godrix/insomnia-plugin-xml-json-response"
+},
+"bugs": {
+    "url": "https://github.com/godrix/insomnia-plugin-xml-json-response/issues"
+},
+"homepage": "https://github.com/godrix/insomnia-plugin-xml-json-response",
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "xml",
+    "json"
+  ],
   "insomnia": {                    
-    "name": "base64",    
-    "displayName": "Base64 Plugin",
+    "name": "xml-json-response",    
+    "displayName": "XML to Json request",
+    "description": "transforms XML responses into Json by removing XML tags",
     "images": {
-      "icon": "icon.svg",
-      "cover": "cover.svg"
+      "icon": "src/assets/icon.svg"
     },
     "publisher": {
-      "name": "YOUR NAME HERE", 
-      "icon": "https://..." 
+      "name": "Carlos G. Godri", 
+      "icon": "https://avatars3.githubusercontent.com/u/5671881?v=4" 
     },
     "applications": { 
       "designer": "*",
