@@ -2,21 +2,8 @@
 
 <p align="center">
 <img alt="NPM Version" src="https://img.shields.io/npm/v/insomnia-plugin-xml-json-response.svg">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/godrix/https://github.com/godrix/insomnia-plugin-xml-json-response?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/godrix/https://github.com/godrix/insomnia-plugin-xml-json-response">
-	
   <a href="https://www.linkedin.com/in/carlosgodri/">
     <img alt="Made by Godrix" src="https://img.shields.io/badge/made%20by-Godrix-%2304D361">
-  </a>
-
-  <a href="https://github.com/godrix/https://github.com/godrix/insomnia-plugin-xml-json-response/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/godrix/https://github.com/godrix/insomnia-plugin-xml-json-response">
-  </a>
-
-  <a href="https://github.com/godrix/https://github.com/godrix/insomnia-plugin-xml-json-response/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/godrix/https://github.com/godrix/insomnia-plugin-xml-json-response">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
