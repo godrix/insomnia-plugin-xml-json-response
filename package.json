@@ -24,7 +24,8 @@
     "displayName": "XML to Json request",
     "description": "transforms XML responses into Json by removing XML tags",
     "images": {
-      "icon": "src/assets/icon.svg"
+      "icon": "src/assets/icon.svg",
+      "cover": "src/assets/cover.png"
     },
     "publisher": {
       "name": "Carlos G. Godri", 
