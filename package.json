@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-xml-json-response",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "main.js",
   "description": "transforms XML responses into Json by removing XML tags",
   "author": "Carlos Gabriel Godri",
