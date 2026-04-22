@@ -1,11 +1,12 @@
 module.exports.responseHooks = [
-  ({ response }) => {
-    const responseBody = response.getBody().toString();
-    const textJson = getContent(responseBody);
+  async ({ response }) => {
+    const body = await response.getBody();
+    if (!body) return;
+
+    const textJson = getContent(body.toString());
 
     if (textJson) {
-      const buffer = Buffer.from(textJson);
-      response.setBody(buffer);
+      response.setBody(Buffer.from(textJson));
     }
   },
 ];
